@@ -1,0 +1,359 @@
+{
+  "updateTime": "2026-01-30T01:39:02.073Z",
+  "gameDate": "2026-01-29",
+  "gameCount": 8,
+  "games": [
+    {
+      "gameId": "0022500682",
+      "gameDate": "2026-01-29",
+      "status": 2,
+      "statusText": "进行中 Q2 10:57",
+      "period": 2,
+      "gameClock": "PT10M57.00S",
+      "homeTeam": {
+        "name": "老鹰",
+        "enName": "Hawks",
+        "tricode": "ATL",
+        "city": "Atlanta",
+        "score": 25,
+        "wins": 24,
+        "losses": 25
+      },
+      "awayTeam": {
+        "name": "火箭",
+        "enName": "Rockets",
+        "tricode": "HOU",
+        "city": "Houston",
+        "score": 23,
+        "wins": 28,
+        "losses": 17
+      },
+      "leaders": {
+        "homeLeader": {
+          "name": "Nickeil Alexander-Walker",
+          "jerseyNum": "7",
+          "position": "G",
+          "points": 10,
+          "rebounds": 2,
+          "assists": 0
+        },
+        "awayLeader": {
+          "name": "Jabari Smith Jr.",
+          "jerseyNum": "10",
+          "position": "F",
+          "points": 0,
+          "rebounds": 3,
+          "assists": 1
+        }
+      }
+    },
+    {
+      "gameId": "0022500680",
+      "gameDate": "2026-01-29",
+      "status": 2,
+      "statusText": "进行中 Q3 6:49",
+      "period": 3,
+      "gameClock": "PT06M49.00S",
+      "homeTeam": {
+        "name": "76人",
+        "enName": "76ers",
+        "tricode": "PHI",
+        "city": "Philadelphia",
+        "score": 70,
+        "wins": 25,
+        "losses": 21
+      },
+      "awayTeam": {
+        "name": "国王",
+        "enName": "Kings",
+        "tricode": "SAC",
+        "city": "Sacramento",
+        "score": 70,
+        "wins": 12,
+        "losses": 36
+      },
+      "leaders": {
+        "homeLeader": {
+          "name": "Tyrese Maxey",
+          "jerseyNum": "0",
+          "position": "G",
+          "points": 25,
+          "rebounds": 4,
+          "assists": 7
+        },
+        "awayLeader": {
+          "name": "DeMar DeRozan",
+          "jerseyNum": "10",
+          "position": "GF",
+          "points": 23,
+          "rebounds": 3,
+          "assists": 5
+        }
+      }
+    },
+    {
+      "gameId": "0022500681",
+      "gameDate": "2026-01-29",
+      "status": 2,
+      "statusText": "进行中 Q3 6:40",
+      "period": 3,
+      "gameClock": "PT06M40.00S",
+      "homeTeam": {
+        "name": "奇才",
+        "enName": "Wizards",
+        "tricode": "WAS",
+        "city": "Washington",
+        "score": 68,
+        "wins": 11,
+        "losses": 34
+      },
+      "awayTeam": {
+        "name": "雄鹿",
+        "enName": "Bucks",
+        "tricode": "MIL",
+        "city": "Milwaukee",
+        "score": 55,
+        "wins": 18,
+        "losses": 27
+      },
+      "leaders": {
+        "homeLeader": {
+          "name": "Kyshawn George",
+          "jerseyNum": "18",
+          "position": "F",
+          "points": 15,
+          "rebounds": 3,
+          "assists": 3
+        },
+        "awayLeader": {
+          "name": "Bobby Portis",
+          "jerseyNum": "9",
+          "position": "F",
+          "points": 17,
+          "rebounds": 5,
+          "assists": 1
+        }
+      }
+    },
+    {
+      "gameId": "0022500529",
+      "gameDate": "2026-01-29",
+      "status": 2,
+      "statusText": "进行中 Q2 11:18",
+      "period": 2,
+      "gameClock": "PT11M18.00S",
+      "homeTeam": {
+        "name": "公牛",
+        "enName": "Bulls",
+        "tricode": "CHI",
+        "city": "Chicago",
+        "score": 31,
+        "wins": 23,
+        "losses": 24
+      },
+      "awayTeam": {
+        "name": "热火",
+        "enName": "Heat",
+        "tricode": "MIA",
+        "city": "Miami",
+        "score": 34,
+        "wins": 25,
+        "losses": 23
+      },
+      "leaders": {
+        "homeLeader": {
+          "name": "Isaac Okoro",
+          "jerseyNum": "35",
+          "position": "FG",
+          "points": 8,
+          "rebounds": 1,
+          "assists": 0
+        },
+        "awayLeader": {
+          "name": "Bam Adebayo",
+          "jerseyNum": "13",
+          "position": "CF",
+          "points": 7,
+          "rebounds": 4,
+          "assists": 1
+        }
+      }
+    },
+    {
+      "gameId": "0022500686",
+      "gameDate": "2026-01-29",
+      "status": 1,
+      "statusText": "未开始 5:30 AM ET",
+      "period": 0,
+      "gameClock": "",
+      "homeTeam": {
+        "name": "森林狼",
+        "enName": "Timberwolves",
+        "tricode": "MIN",
+        "city": "Minnesota",
+        "score": 0,
+        "wins": 29,
+        "losses": 19
+      },
+      "awayTeam": {
+        "name": "雷霆",
+        "enName": "Thunder",
+        "tricode": "OKC",
+        "city": "Oklahoma City",
+        "score": 0,
+        "wins": 38,
+        "losses": 10
+      },
+      "leaders": {
+        "homeLeader": {
+          "name": "",
+          "jerseyNum": "",
+          "position": "",
+          "points": 0,
+          "rebounds": 0,
+          "assists": 0
+        },
+        "awayLeader": {
+          "name": "",
+          "jerseyNum": "",
+          "position": "",
+          "points": 0,
+          "rebounds": 0,
+          "assists": 0
+        }
+      }
+    },
+    {
+      "gameId": "0022500685",
+      "gameDate": "2026-01-29",
+      "status": 1,
+      "statusText": "未开始 5:00 AM ET",
+      "period": 0,
+      "gameClock": "",
+      "homeTeam": {
+        "name": "太阳",
+        "enName": "Suns",
+        "tricode": "PHX",
+        "city": "Phoenix",
+        "score": 0,
+        "wins": 28,
+        "losses": 19
+      },
+      "awayTeam": {
+        "name": "活塞",
+        "enName": "Pistons",
+        "tricode": "DET",
+        "city": "Detroit",
+        "score": 0,
+        "wins": 34,
+        "losses": 11
+      },
+      "leaders": {
+        "homeLeader": {
+          "name": "",
+          "jerseyNum": "",
+          "position": "",
+          "points": 0,
+          "rebounds": 0,
+          "assists": 0
+        },
+        "awayLeader": {
+          "name": "",
+          "jerseyNum": "",
+          "position": "",
+          "points": 0,
+          "rebounds": 0,
+          "assists": 0
+        }
+      }
+    },
+    {
+      "gameId": "0022500684",
+      "gameDate": "2026-01-29",
+      "status": 1,
+      "statusText": "未开始 5:00 AM ET",
+      "period": 0,
+      "gameClock": "",
+      "homeTeam": {
+        "name": "掘金",
+        "enName": "Nuggets",
+        "tricode": "DEN",
+        "city": "Denver",
+        "score": 0,
+        "wins": 31,
+        "losses": 16
+      },
+      "awayTeam": {
+        "name": "篮网",
+        "enName": "Nets",
+        "tricode": "BKN",
+        "city": "Brooklyn",
+        "score": 0,
+        "wins": 12,
+        "losses": 33
+      },
+      "leaders": {
+        "homeLeader": {
+          "name": "",
+          "jerseyNum": "",
+          "position": "",
+          "points": 0,
+          "rebounds": 0,
+          "assists": 0
+        },
+        "awayLeader": {
+          "name": "",
+          "jerseyNum": "",
+          "position": "",
+          "points": 0,
+          "rebounds": 0,
+          "assists": 0
+        }
+      }
+    },
+    {
+      "gameId": "0022500683",
+      "gameDate": "2026-01-29",
+      "status": 1,
+      "statusText": "未开始 4:30 AM ET",
+      "period": 0,
+      "gameClock": "",
+      "homeTeam": {
+        "name": "独行侠",
+        "enName": "Mavericks",
+        "tricode": "DAL",
+        "city": "Dallas",
+        "score": 0,
+        "wins": 19,
+        "losses": 28
+      },
+      "awayTeam": {
+        "name": "黄蜂",
+        "enName": "Hornets",
+        "tricode": "CHA",
+        "city": "Charlotte",
+        "score": 0,
+        "wins": 20,
+        "losses": 28
+      },
+      "leaders": {
+        "homeLeader": {
+          "name": "",
+          "jerseyNum": "",
+          "position": "",
+          "points": 0,
+          "rebounds": 0,
+          "assists": 0
+        },
+        "awayLeader": {
+          "name": "",
+          "jerseyNum": "",
+          "position": "",
+          "points": 0,
+          "rebounds": 0,
+          "assists": 0
+        }
+      }
+    }
+  ]
+}
